@@ -13,7 +13,7 @@ Controle de Consumo de Água Ingerida
 - [x] GIF‘s
 
 ---
-<h1 align='center'>Compra com Desconto</h1>
+<h1 align='center'>Controle de Consumo de Água Ingerida</h1>
 
 <p align='center'>Esse é um exemplo de lógica em javascript</p>
 <p align='center'>
