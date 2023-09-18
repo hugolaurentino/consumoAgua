@@ -1,4 +1,3 @@
-Controle de Consumo de Água Ingerida
 <h1 align="center">
   <img alt="Logo" title="#Logo" src="./assets/logo-hugo.png" />
 </h1>
